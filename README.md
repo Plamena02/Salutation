@@ -1,4 +1,2 @@
 # Salutation
 IT Career
-
-
